@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DesktopLauncher" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+<!--        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--        <item name="android:colorBackgroundCacheHint">@null</item>-->
+<!--        <item name="android:colorEdgeEffect">#FF757575</item>-->
+<!--        <item name="android:windowActionBar">false</item>-->
+<!--        <item name="android:windowBackground">@android:color/transparent</item>-->
+<!--        <item name="android:windowNoTitle">true</item>-->
+<!--        <item name="android:windowShowWallpaper">false</item>-->
+
+
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:colorEdgeEffect">@color/purple_500</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">always</item>
+        <item name="android:enforceStatusBarContrast">false</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+        <item name="android:windowAnimationStyle">@style/ActivityAnimation</item>
+    </style>
+
+
+    <style name="ActivityAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:wallpaperOpenEnterAnimation">@anim/wallpager_open_enter</item>
+        <item name="android:wallpaperOpenExitAnimation">@anim/wallpaper_open_exit</item>
+        <item name="android:wallpaperCloseEnterAnimation">@anim/wallpager_open_enter</item>
+        <item name="android:wallpaperCloseExitAnimation">@anim/wallpaper_open_exit</item>
+    </style>
+
+
+
+</resources>

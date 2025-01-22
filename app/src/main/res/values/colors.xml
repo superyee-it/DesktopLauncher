@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <color name="black5">#0D000000</color>
+    <color name="black10">#1A000000</color>
+    <color name="black20">#33000000</color>
+    <color name="black30">#4D000000</color>
+    <color name="black90">#E5000000</color>
+    <color name="black80">#CC000000</color>
+    <color name="black65">#A6000000</color>
+    <color name="black40">#66000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white10">#1AFFFFFF</color>
+    <color name="white16">#29FFFFFF</color>
+    <color name="white20">#33FFFFFF</color>
+    <color name="white30">#4DFFFFFF</color>
+    <color name="white40">#66FFFFFF</color>
+    <color name="white50">#80FFFFFF</color>
+    <color name="white65">#A6FFFFFF</color>
+    <color name="white80">#CCFFFFFF</color>
+    <color name="white85">#D9FFFFFF</color>
+    <color name="white90">#E6FFFFFF</color>
+
+    <color name="bg_popupwindow">#FFFFFF</color>
+    <color name="pop_divider_color">#F2F2F2</color>
+
+    <color name="text_theme_blue">#2441FD</color>
+    <color name="text_theme_orange">#2787FD</color>
+    <color name="text_common_grayBF">#BFBFBF</color>
+    <color name="text_theme_black">#FF333333</color>
+    <color name="text_theme_white">#FFFFFFFF</color>
+    <color name="text_common_gray66">#FF666666</color>
+    <color name="text_common_gray99">#FFe6e6e6</color>
+    <color name="text_theme_black122C">#FF121F2C</color>
+    <color name="text_common_grayF6">#FFF6F6F6</color>
+    <color name="text_common_grayCC">#FFF9F9F9</color>
+
+    <color name="bg_color_2749">#E5273249</color>
+    <color name="bg_drawer_cover">#D6DAE3</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg_dock">#CCF3F3F3</color>
+    <color name="bg_drawer">#3D474D</color>
+</resources>

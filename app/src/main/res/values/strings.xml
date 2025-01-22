@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DesktopLauncher</string>
+    <string name="menu_view">查看</string>
+    <string name="menu_sort">排序</string>
+    <string name="menu_new_folder">新建文件夹</string>
+    <string name="menu_remove">删除</string>
+    <string name="menu_uninstall">卸载</string>
+    <string name="menu_clean_trash">清空回收站</string>
+    <string name="menu_rename">重命名</string>
+    <string name="menu_open">打开</string>
+    <string name="menu_default_app">默认应用</string>
+    <string name="menu_paste">粘贴</string>
+    <string name="menu_copy">复制</string>
+    <string name="menu_cut">剪切</string>
+    <string name="menu_choose_wallpaper">更换桌面壁纸</string>
+    <string name="trash">回收站</string>
+
+    <string name="menu_view_18x8">18 x 8</string>
+    <string name="menu_view_18x9">18 x 9</string>
+    <string name="menu_view_19x8">19 x 8</string>
+    <string name="menu_view_19x9">19 x 9</string>
+    <string name="menu_view_20x10">20 x 10</string>
+    <string name="menu_sort_by_name">名称</string>
+    <string name="menu_sort_by_type">项目类型</string>
+    <string name="menu_sort_by_date">修改日期</string>
+    <string name="desktop_not_enough_space">桌面空间不足</string>
+</resources>

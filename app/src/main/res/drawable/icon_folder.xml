@@ -1,0 +1,47 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="#F8F6E6" />
+        </shape>
+    </item>
+    <item
+        android:bottom="10dp"
+        android:left="10dp"
+        android:right="10dp"
+        android:top="10dp">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="256dp"
+            android:height="256dp"
+            android:viewportWidth="1024"
+            android:viewportHeight="1024">
+            <!--            <path-->
+            <!--                android:fillColor="#F8F6E6"-->
+            <!--                android:pathData="M0,0 1024,0 1024,1024 0,1024z" />-->
+            <!--    <path-->
+            <!--        android:fillColor="#3A69DD"-->
+            <path
+                android:fillColor="#5F7CF9"
+                android:pathData="M938.7,464.6h-853.3v-265.5c0,-62.6 51.2,-113.8 113.8,-113.8h128.9c15.2,0 28.4,3.8 41.7,11.4l98.6,64.5h356.5c62.6,0 113.8,51.2 113.8,113.8v189.6z" />
+
+            <path
+                android:fillColor="#D9E3FF"
+                android:pathData="M805.9,398.2h-587.9v-125.2c0,-24.7 20.9,-45.5 45.5,-45.5h496.8c24.7,0 45.5,20.9 45.5,45.5V398.2z" />
+
+            <path
+                android:fillColor="#FFFFFF"
+                android:pathData="M843.9,417.2h-663.7v-98.6c0,-28.4 22.8,-53.1 53.1,-53.1h559.4c28.4,0 53.1,22.8 53.1,53.1V417.2z" />
+
+            <!--    <path-->
+            <!--        android:fillColor="#5F7CF9"-->
+            <path
+                android:fillColor="#5F7CF9"
+                android:pathData="M787,938.7h-549.9c-83.4,0 -151.7,-68.3 -151.7,-151.7V341.3s316.7,37.9 430.5,37.9c189.6,0 422.9,-37.9 422.9,-37.9v445.6c0,83.4 -68.3,151.7 -151.7,151.7z" />
+
+            <path
+                android:fillColor="#5F7CF9"
+                android:pathData="M559.4,512h-75.9c-20.9,0 -37.9,-17.1 -37.9,-37.9s17.1,-37.9 37.9,-37.9h75.9c20.9,0 37.9,17.1 37.9,37.9s-17.1,37.9 -37.9,37.9z" />
+
+        </vector>
+    </item>
+</layer-list>
+
